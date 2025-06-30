@@ -5,7 +5,7 @@ Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats).
 
 ## Dataset
 
-- *Source*: [Netflix Movies and TV Shows on Kaggle]
+- *Source*: Netflix Movies and TV Shows on Kaggle
 - *Columns*: show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
   
 ## Tools Used
@@ -27,8 +27,8 @@ Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats).
 
 ## Files Included
 
-- `data cleaning and preprocessing.ipynb` — Jupyter notebook with full cleaning code
-- `netflix_titles.csv` — Dataset
+- `Data Cleaning and Preprocessing.ipynb` — Jupyter notebook with full cleaning code
+- `netflix_titles Dataset.csv` — Dataset
 
 ##  Outcome
 
