@@ -24,7 +24,7 @@ Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats).
 
 ## Files Included
 - `Data Cleaning and Preprocessing.ipynb` — Jupyter notebook with full cleaning code
-- `netflix_titles Dataset.csv` — Dataset
+- `netflix_titles Dataset.csv` — Dataset(To run this notebook, please download netflix_titles Dataset.csv from Kaggle netflix_title Dataset and place it in the same folder as this notebook.”)
 
 ##  Outcome
 A cleaned dataset ready for visualization, storytelling, or predictive modeling.
